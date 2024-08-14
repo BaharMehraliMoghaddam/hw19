@@ -4,7 +4,7 @@ export const getProducts = async (searchParams) => {
     const res = await http.get(`/products${generateQueryParams(searchParams)}`);
     return res.data;
   };
-  
+
 export const getProduct=async(id)=>{
     const res= await http.get (`/products/${id}`)
     return res.data
