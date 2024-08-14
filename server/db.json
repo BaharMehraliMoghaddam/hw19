@@ -1,0 +1,204 @@
+{
+    "products":[
+        {
+          "createdAt": "2025-12-02T17:37:59.414Z",
+          "name": "Unbranded Frozen Gloves",
+          "image": "https://loremflickr.com/640/480/cats",
+          "price": "113.00",
+          "category": "1",
+          "discription": "Alias magni beatae neque vero. Officia consequuntur magni neque nihil expedita ratione sed fugiat veniam. Culpa veritatis voluptatem quasi nihil itaque nobis quia quo. Ipsa magnam unde eius. Dolores quasi temporibus reprehenderit veritatis adipisci. Harum expedita est odio consectetur.",
+          "id": "1",
+          "available": true
+        },
+        {
+          "createdAt": "2093-01-25T15:15:37.139Z",
+          "name": "Electronic Bronze Sausages",
+          "image": "https://loremflickr.com/640/480/people",
+          "price": "673.00",
+          "category": "2",
+          "discription": "Labore rerum incidunt eaque. Doloribus praesentium dolore. Aut debitis minima quisquam iusto voluptatem eum. Amet eveniet odit atque quo ipsum error inventore. Adipisci dignissimos commodi. Ea perferendis nobis atque sequi tempore.",
+          "id": "2",
+          "available": true
+        },
+        {
+          "createdAt": "2099-09-20T11:14:32.526Z",
+          "name": "Handmade Metal Mouse",
+          "image": "https://loremflickr.com/640/480/fashion",
+          "price": "453.00",
+          "category": "1",
+          "discription": "Sapiente nobis inventore. A odit error. Asperiores ipsam tempore modi sequi nam enim error explicabo.",
+          "id": "3",
+          "available": false
+        },
+        {
+          "createdAt": "2070-06-17T14:41:59.846Z",
+          "name": "Awesome Wooden Car",
+          "image": "https://loremflickr.com/640/480/cats",
+          "price": "317.00",
+          "category": "2",
+          "discription": "Veritatis dolores est quaerat maiores. Reprehenderit iure laboriosam maxime corporis. Perferendis quibusdam porro nisi ex.",
+          "id": "4",
+          "available": false
+        },
+        {
+          "createdAt": "2087-11-10T23:53:22.512Z",
+          "name": "Gorgeous Cotton Cheese",
+          "image": "https://loremflickr.com/640/480/fashion",
+          "price": "538.00",
+          "category": "2",
+          "discription": "Deserunt ipsam aut provident magni minima. Sapiente sapiente doloremque perspiciatis architecto asperiores assumenda similique fugit. Aut voluptatem optio esse saepe ex modi quaerat. Eligendi libero aut reprehenderit soluta earum nobis praesentium cumque iure. Nobis deserunt soluta iste expedita fuga commodi aut. Ad suscipit saepe vel voluptates.",
+          "id": "5",
+          "available": false
+        },
+        {
+          "createdAt": "2067-12-30T04:22:54.185Z",
+          "name": "Ergonomic Wooden Car",
+          "image": "https://loremflickr.com/640/480/sports",
+          "price": "795.00",
+          "category": "2",
+          "discription": "Aliquam exercitationem adipisci ex culpa distinctio eius modi. Id maxime vero dolore cum sed. Vel facilis culpa delectus sed. Impedit ut dolore sint saepe culpa possimus. Similique expedita suscipit. Facere ratione placeat incidunt aliquam nemo porro nostrum.",
+          "id": "6",
+          "available": true
+        },
+        {
+          "createdAt": "2032-10-30T20:58:38.255Z",
+          "name": "Generic Granite Chair",
+          "image": "https://loremflickr.com/640/480/city",
+          "price": "527.00",
+          "category": "2",
+          "discription": "In magni possimus molestiae. Quam doloremque aliquam explicabo voluptate. Saepe tempore pariatur. Delectus omnis assumenda doloribus.",
+          "id": "7",
+          "available": false
+        },
+        {
+          "createdAt": "2059-07-02T08:14:39.198Z",
+          "name": "Licensed Soft Sausages",
+          "image": "https://loremflickr.com/640/480/business",
+          "price": "815.00",
+          "category": "1",
+          "discription": "Perspiciatis libero necessitatibus veniam reiciendis vel magni deserunt quis. Accusantium ea totam natus aliquid eligendi et. Nostrum necessitatibus architecto itaque repudiandae assumenda. Alias autem itaque officia tempora veniam.",
+          "id": "8",
+          "available": false
+        },
+        {
+          "createdAt": "2096-09-12T17:16:04.232Z",
+          "name": "Tasty Steel Cheese",
+          "image": "https://loremflickr.com/640/480/sports",
+          "price": "740.00",
+          "category": "2",
+          "discription": "Quasi fuga iste. Placeat dolorum provident dignissimos tenetur quas earum voluptates corporis. Atque ratione repellat voluptate assumenda.",
+          "id": "9",
+          "available": true
+        },
+        {
+          "createdAt": "2045-06-11T21:44:04.998Z",
+          "name": "Ergonomic Plastic Keyboard",
+          "image": "https://loremflickr.com/640/480/abstract",
+          "price": "195.00",
+          "category": "2",
+          "discription": "Inventore sunt at culpa placeat excepturi blanditiis. Beatae deserunt ex. Veritatis sed dignissimos ratione blanditiis aperiam placeat voluptas. Itaque maiores odit ex culpa placeat pariatur debitis ullam expedita.",
+          "id": "10",
+          "available": true
+        },
+        {
+          "createdAt": "2034-11-01T05:41:02.874Z",
+          "name": "Sleek Steel Towels",
+          "image": "https://loremflickr.com/640/480/transport",
+          "price": "465.00",
+          "category": "1",
+          "discription": "Quas molestias dolorem autem. Atque officiis voluptate eum architecto ut excepturi eligendi dolorem odit. Porro ad nostrum ipsum saepe fugit unde aspernatur. Repellat voluptate eveniet commodi repudiandae dolorum aspernatur tempora minima suscipit. Dolorem aliquid delectus earum. Tempora rerum et neque nisi.",
+          "id": "11",
+          "available": true
+        },
+        {
+          "createdAt": "2086-09-24T19:49:06.733Z",
+          "name": "Bespoke Wooden Fish",
+          "image": "https://loremflickr.com/640/480/fashion",
+          "price": "13.00",
+          "category": "1",
+          "discription": "Omnis nemo quas. Tempora aliquid similique unde minus sint repellendus quas. Aliquam tempora maxime voluptatum reprehenderit illum. Velit similique excepturi. Numquam vero eum libero suscipit esse dolorum reiciendis.",
+          "id": "12",
+          "available": false
+        },
+        {
+          "createdAt": "2085-08-12T21:38:55.444Z",
+          "name": "Luxurious Frozen Soap",
+          "image": "https://loremflickr.com/640/480/nature",
+          "price": "272.00",
+          "category": "2",
+          "discription": "Debitis nisi deleniti dicta dolorem in iure facilis. Doloribus iusto vel voluptas occaecati voluptas nobis quod alias ab. Totam voluptas distinctio voluptate numquam culpa architecto blanditiis. Dignissimos veritatis commodi rem ipsam voluptatem error culpa atque. Architecto recusandae voluptatum pariatur est saepe eaque expedita officiis. Architecto unde aspernatur soluta beatae quisquam culpa nulla.",
+          "id": "13",
+          "available": false
+        },
+        {
+          "createdAt": "2098-06-14T09:43:20.093Z",
+          "name": "Intelligent Granite Pizza",
+          "image": "https://loremflickr.com/640/480/cats",
+          "price": "330.00",
+          "category": "1",
+          "discription": "In explicabo aut ipsum perspiciatis velit nesciunt quibusdam mollitia rem. Perspiciatis labore a maiores tempora suscipit cupiditate in. Facilis provident doloremque laborum aut. Doloremque nam voluptates ipsum repellendus ad enim voluptas temporibus impedit. Cum soluta fugit rem officia magni vitae laboriosam eum id. Aliquid est laboriosam dolor nemo nesciunt ipsum numquam commodi in.",
+          "id": "14",
+          "available": false
+        },
+        {
+          "createdAt": "2012-05-19T16:51:19.085Z",
+          "name": "Ergonomic Wooden Cheese",
+          "image": "https://loremflickr.com/640/480/city",
+          "price": "913.00",
+          "category": "2",
+          "discription": "Reprehenderit reiciendis laborum. Quisquam tempora laborum eius ab suscipit ea. Dolorem neque quos cupiditate alias. Unde commodi omnis. Reprehenderit quidem velit iusto voluptate deserunt eveniet. Laborum maxime ex et aliquam est.",
+          "id": "15",
+          "available": false
+        },
+        {
+          "createdAt": "2057-01-10T13:40:36.413Z",
+          "name": "Tasty Metal Table",
+          "image": "https://loremflickr.com/640/480/fashion",
+          "price": "206.00",
+          "category": "2",
+          "discription": "Cum quidem quisquam beatae officia asperiores ratione iure voluptas magnam. Quasi ipsam sint voluptatem reiciendis. Magnam quas voluptas porro facere. Commodi aliquid nihil consequuntur excepturi quae saepe porro. Vero cumque repellendus deleniti minima.",
+          "id": "16",
+          "available": false
+        },
+        {
+          "createdAt": "2059-05-16T19:31:55.704Z",
+          "name": "Tasty Bronze Pizza",
+          "image": "https://loremflickr.com/640/480/nature",
+          "price": "122.00",
+          "category": "1",
+          "discription": "Recusandae aut porro libero beatae. Qui eligendi sit maxime. Amet dolorum minima expedita beatae vel. Ipsum saepe unde eos placeat repudiandae eligendi a quia tenetur. Tempore accusantium ut tempora eligendi sunt vero repudiandae doloribus impedit.",
+          "id": "17",
+          "available": false
+        },
+        {
+          "createdAt": "2000-08-07T01:51:55.000Z",
+          "name": "Tasty Soft Mouse",
+          "image": "https://loremflickr.com/640/480/abstract",
+          "price": "18.00",
+          "category": "2",
+          "discription": "Consequatur commodi temporibus alias accusamus dolor. Magnam repellat maxime illo quisquam molestias sit. Est perferendis aut similique corrupti. Ea expedita odio eaque commodi asperiores voluptatem iusto veritatis. Omnis rerum debitis veritatis asperiores sapiente accusamus ad in.",
+          "id": "18",
+          "available": true
+        },
+        {
+          "createdAt": "2049-03-24T17:35:45.271Z",
+          "name": "Handcrafted Steel Shirt",
+          "image": "https://loremflickr.com/640/480/transport",
+          "price": "776.00",
+          "category": "1",
+          "discription": "Rerum tempora vel aut numquam. Molestiae consequatur odit molestias. Perspiciatis nisi veniam assumenda dolorem temporibus. Ullam ad saepe amet dolorum ducimus. Eos explicabo unde magnam quos.",
+          "id": "19",
+          "available": false
+        },
+        {
+          "createdAt": "2019-05-21T06:38:28.572Z",
+          "name": "Handcrafted Cotton Table",
+          "image": "https://loremflickr.com/640/480/cats",
+          "price": "854.00",
+          "category": "1",
+          "discription": "Consequuntur odio quos quaerat deleniti. Aspernatur praesentium temporibus provident. Magnam vero sit soluta ipsum. Veniam optio optio asperiores repudiandae vel incidunt deserunt. Quis rem voluptatibus dicta ipsam nesciunt neque. Earum harum ipsa dicta inventore corrupti.",
+          "id": "20",
+          "available": true
+        }
+      ]
+}
